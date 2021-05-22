@@ -1,0 +1,7 @@
+input, button{
+	display: block;
+}
+
+.crossed{
+	text-decoration: line-through;
+}
