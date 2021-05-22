@@ -1,0 +1,13 @@
+input, button{
+	display: block;
+}
+
+#rules{
+	display: inline-block;
+}
+
+ul{
+	right: 10px;
+	top: 0px;
+	position: absolute;
+}
