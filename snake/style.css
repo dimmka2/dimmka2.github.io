@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+canvas{
+	background-color: #d0d0e0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+p{
+	margin-left: 30px;
+	margin-top:30px;
+	font-size: 30px;
+}
